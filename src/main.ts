@@ -37,7 +37,7 @@ export class ModuleInstance extends InstanceBase<ModuleConfig> {
 	async updateFeed(feedURL: string = this.config.feed): Promise<void> {
 		try {
 			this.rssResponse = await this.#parser.parseURL(feedURL)
-			this.log('info', JSON.stringify(this.rssResponse))
+			this.log('debug', JSON.stringify(this.rssResponse))
 			this.updateVariableDefinitions()
 			this.updateStatus(InstanceStatus.Ok)
 		} catch (error) {
