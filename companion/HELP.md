@@ -1,3 +1,3 @@
-## Your module
+## Generic RSS Client
 
-Write some help for your users here!
+Query an RSS feed and return the data as variables.
