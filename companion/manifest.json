@@ -5,8 +5,8 @@
 	"description": "Generic RSS Client",
 	"version": "0.0.0",
 	"license": "MIT",
-	"repository": "git+https://github.com/phillipivan/companion-module-generic-rss-reader.git",
-	"bugs": "https://github.com/phillipivan/companion-module-generic-rss-reader/issues",
+	"repository": "git+https://github.com/bitfocus/companion-module-generic-rss-client.git",
+	"bugs": "https://github.com/bitfocus/companion-module-generic-rss-client/issues",
 	"maintainers": [
 		{
 			"name": "Phillip Ivan Pietruschka",

@@ -16,7 +16,7 @@
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/phillipivan/companion-module-generic-rss-reader.git"
+		"url": "git+https://github.com/bitfocus/companion-module-generic-rss-client.git"
 	},
 	"engines": {
 		"node": "^22.14",
