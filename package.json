@@ -28,7 +28,7 @@
 		"rss-parser": "^3.13.0"
 	},
 	"devDependencies": {
-		"@companion-module/tools": "^2.3.0",
+		"@companion-module/tools": "^2.6.1",
 		"@types/node": "^22.17.2",
 		"eslint": "^9.33.0",
 		"husky": "^9.1.7",
